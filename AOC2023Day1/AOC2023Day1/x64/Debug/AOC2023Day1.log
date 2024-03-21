@@ -1,0 +1,21 @@
+﻿  Source.cpp
+C:\Users\Tanne\source\repos\AOC2023Day1\AOC2023Day1\Source.cpp(40,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tanne\source\repos\AOC2023Day1\AOC2023Day1\Source.cpp(44,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tanne\source\repos\AOC2023Day1\AOC2023Day1\Source.cpp(48,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tanne\source\repos\AOC2023Day1\AOC2023Day1\Source.cpp(52,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tanne\source\repos\AOC2023Day1\AOC2023Day1\Source.cpp(56,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tanne\source\repos\AOC2023Day1\AOC2023Day1\Source.cpp(60,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tanne\source\repos\AOC2023Day1\AOC2023Day1\Source.cpp(64,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tanne\source\repos\AOC2023Day1\AOC2023Day1\Source.cpp(68,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tanne\source\repos\AOC2023Day1\AOC2023Day1\Source.cpp(72,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tanne\source\repos\AOC2023Day1\AOC2023Day1\Source.cpp(76,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tanne\source\repos\AOC2023Day1\AOC2023Day1\Source.cpp(80,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tanne\source\repos\AOC2023Day1\AOC2023Day1\Source.cpp(84,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tanne\source\repos\AOC2023Day1\AOC2023Day1\Source.cpp(88,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tanne\source\repos\AOC2023Day1\AOC2023Day1\Source.cpp(92,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tanne\source\repos\AOC2023Day1\AOC2023Day1\Source.cpp(96,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tanne\source\repos\AOC2023Day1\AOC2023Day1\Source.cpp(100,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tanne\source\repos\AOC2023Day1\AOC2023Day1\Source.cpp(104,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tanne\source\repos\AOC2023Day1\AOC2023Day1\Source.cpp(108,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tanne\source\repos\AOC2023Day1\AOC2023Day1\Source.cpp(125,4): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  AOC2023Day1.vcxproj -> C:\Users\Tanne\source\repos\AOC2023Day1\x64\Debug\AOC2023Day1.exe

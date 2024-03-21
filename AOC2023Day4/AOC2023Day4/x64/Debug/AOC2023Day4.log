@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Tanne\source\repos\AOC2023Day4\AOC2023Day4\Source.cpp(83,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tanne\source\repos\AOC2023Day4\AOC2023Day4\Source.cpp(147,16): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  AOC2023Day4.vcxproj -> C:\Users\Tanne\source\repos\AOC2023Day4\x64\Debug\AOC2023Day4.exe
