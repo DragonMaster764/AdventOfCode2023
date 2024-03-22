@@ -1,5 +1,7 @@
-Each problem is seperated into folders. 
+Each problem is separated into folders. 
 
-Some problems have two parts seperated, some are only one folder. 
+Some problems have two parts separated, some have only one solution in one folder. 
+
+Not all problems were completed.
 
 All code by Tanner Johnson
